@@ -11,12 +11,12 @@ DB_DATABASE=laraweb<br/>
 DB_USERNAME=root<br/>
 DB_PASSWORD=<br/>
 <br/>
-
-
-<b>Setup Virtual host</b><br/>
+<b>Setup Virtual host</b>
+<br/>
 1) Setup your virtual host and run 
-<br/><br/>
-<b>Admin Details</b><br/>
+<br/>
+<b>Admin Details</b>
+<br/>
 Email : admin@gmail.com
 Password : password
 <br/><br/>
