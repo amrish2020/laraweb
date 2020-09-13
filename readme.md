@@ -18,4 +18,10 @@ DB_PASSWORD=<br/>
 
 <b>Admin Details</b>
 Email : admin@gmail.com
+<br/>
 Password : password
+
+<b>Hotel Packages</b>
+-> go to Management-> Hotel Packages to manage it.
+
+
