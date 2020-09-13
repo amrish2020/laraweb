@@ -1,4 +1,4 @@
-git clone https://github.com/amrish2020/laraweb to your folder
+git clone https://github.com/amrish2020/laraweb to your folder or you can download the zip and extrace to your folder.
 <br/><br/>
 <b>Databae Settings Step</b><br/>
 1) Create a database in phpmyadmin<br/>
