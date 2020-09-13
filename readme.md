@@ -14,10 +14,10 @@ DB_PASSWORD=<br/>
 <b>Setup Virtual host</b>
 <br/>
 1) Setup your virtual host and run 
-<br/>
+<br/><br/>
 <b>Admin Details</b>
 <br/>
-Email : admin@gmail.com
+Email : admin@gmail.com<br/>
 Password : password
 <br/><br/>
 <b>Hotel Packages</b>
