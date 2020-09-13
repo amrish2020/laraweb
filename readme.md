@@ -16,12 +16,12 @@ DB_PASSWORD=<br/>
 <b>Setup Virtual host</b>
 1) Setup your virtual host and run 
 
-<b>Admin Details</b>
+<b>Admin Details</b><br/>
 Email : admin@gmail.com
 <br/>
 Password : password
-
+<br/><br/>
 <b>Hotel Packages</b>
--> go to Management-> Hotel Packages to manage it.
+- go to Management-> Hotel Packages to manage it.
 
 
