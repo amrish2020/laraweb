@@ -18,7 +18,6 @@ DB_PASSWORD=<br/>
 <br/><br/>
 <b>Admin Details</b><br/>
 Email : admin@gmail.com
-<br/>
 Password : password
 <br/><br/>
 <b>Hotel Packages</b>
